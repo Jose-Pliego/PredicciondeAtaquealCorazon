@@ -87,4 +87,3 @@ Este proyecto mostró cómo aplicar diversas técnicas de **aprendizaje supervis
 ![image](https://github.com/user-attachments/assets/a6a5a7b4-bf99-49d8-8d03-b8abd070345b)
 ![image](https://github.com/user-attachments/assets/694a5842-d471-4411-b239-32efbba06c81)
 ![image](https://github.com/user-attachments/assets/ddadd660-d143-4ab4-a584-7aff9d76601e)
-![Uploading image.png…]()
